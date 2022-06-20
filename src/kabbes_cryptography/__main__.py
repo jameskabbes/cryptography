@@ -1,1 +1,1 @@
-print ('Runnning main for kabbes_cryptography')
+print ('Running main for kabbes_crytography')
