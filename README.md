@@ -1,14 +1,13 @@
-[GitHub Pages](https://jameskabbes.github.io/cryptography)<br>
-[PyPI](https://pypi.org/project/kabbes-cryptography)
-
 # cryptography
 Easy implementation of professional Python cryptography packages
 
 <br> 
 
+[Documentation](https://jameskabbes.github.io/cryptography)<br>
+[PyPI](https://pypi.org/project/kabbes-cryptography)
+
 # Installation
 `pip install kabbes_cryptography`
-
 
 <br>
 
