@@ -1,4 +1,4 @@
-pycryptodome
+cryptography
 rsa
 kabbes_dir_ops>=0.7.1
 kabbes_parent_class>=0.6.0
