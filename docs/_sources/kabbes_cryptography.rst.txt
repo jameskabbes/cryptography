@@ -1,0 +1,37 @@
+kabbes\_cryptography package
+============================
+
+Submodules
+----------
+
+kabbes\_cryptography.AES module
+-------------------------------
+
+.. automodule:: kabbes_cryptography.AES
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+kabbes\_cryptography.Combined module
+------------------------------------
+
+.. automodule:: kabbes_cryptography.Combined
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+kabbes\_cryptography.RSA module
+-------------------------------
+
+.. automodule:: kabbes_cryptography.RSA
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: kabbes_cryptography
+   :members:
+   :undoc-members:
+   :show-inheritance:
