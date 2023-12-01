@@ -1,6 +1,6 @@
 from parent_class import ParentClass
 import dir_ops as do
-import py_starter as ps
+import py_seedlings as ps
 import kabbes_cryptography
 
 class Combined( ParentClass ):

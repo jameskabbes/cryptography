@@ -1,5 +1,5 @@
 from parent_class import ParentClass
-import py_starter as ps
+import py_seedlings as ps
 import rsa
 import kabbes_cryptography
 
